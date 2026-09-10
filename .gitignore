@@ -1,0 +1,7 @@
+*.log
+.vscode
+.DS_store
+Thumbs.bd
+.env
+/tmp
+ReadmeInstall.md
